@@ -25,3 +25,8 @@ def kesha_maker(array)
       e.delete e[3]
     }
 end
+
+def find_a(array)
+  array.select{ |e| e.start_with?"a"}
+  
+end
