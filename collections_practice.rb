@@ -40,6 +40,6 @@ def add_s(array)
         e
       else
         e+"s"
+      end
     }
-  end
 end
